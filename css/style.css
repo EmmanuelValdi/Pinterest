@@ -1,0 +1,84 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* -- Navbar -- */
+.navbar {
+    margin-top: 6px;
+}
+.logo {
+    width: 34px;
+}
+.icon {
+    width: 40px;
+    padding: 0px 10px 0px 0px;
+}
+.nav-item {
+    padding: 0px 0px 0px 8px;
+}
+.nav-link {
+    font-size: 16px;
+    font-weight: bolder;
+    color: #000000;
+}
+.nav-link:hover {
+    color: #ffffff;
+}
+.collapse {
+    width: 200px;
+}
+.form {
+    width: 800px;
+    border-radius: 30px;
+    border-width: 1px;
+    margin-left: 12px;
+}
+.badge {
+    height: 37px;
+    padding-top: 10px;
+    background-color: #ffffff;
+}
+.badge:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
+/* -- Header -- */
+main {
+    margin: 15px 0px;
+}
+h2 {
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+.enlace {
+    position: absolute;
+    padding-top: 52px;
+    padding-left: 2px;
+    font-size: 12px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.enlace:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+.card-deck {
+    margin: 0px 200px;
+}
+.btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    margin-top: 20px;
+    background-color: #E6E6E6;
+}
+.img-pen {
+    width: 18px;
+    margin: 0px 10px 4px 0px;
+}
+/* -- Section -- */
+.card-columns {
+      column-count: 5;
+}
+
+
